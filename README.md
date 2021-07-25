@@ -27,4 +27,4 @@ Some dependencies used in the project are:
 For training the model download the cityscapes segmentation dataset from their [website](https://www.cityscapes-dataset.com/) and place the image and label in the same folder in which the main file is. Then open the [main file](https://github.com/HimGautam/Semantic-Segmentation/blob/main/main%20file.ipynb) in the jupyter notebook and run all cells. 
 
 # Trying out
-If you want to only try out the model then downloan the weights of the model from this [link](https://drive.google.com/drive/folders/1h0yrEK_Rb5nWy4x5VzeXMkt4PmG7YcMR?usp=sharing) and place them in the same folder with main file. Then start the main file with jupyter notebook. Run all the cells except the cell with code ```model.fit(.....)``` in it.
+If you want to only try out the model then download the weights of the model from this [link](https://drive.google.com/drive/folders/1h0yrEK_Rb5nWy4x5VzeXMkt4PmG7YcMR?usp=sharing) and place them in the same folder with main file. Then start the main file with jupyter notebook. Run all the cells except the cell with code ```model.fit(.....)``` in it.
